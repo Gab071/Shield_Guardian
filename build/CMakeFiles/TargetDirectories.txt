@@ -1,0 +1,3 @@
+/home/gab/Documents/projects/Cpp/Knight_Of_Solitude/build/CMakeFiles/Shield_Guardian.dir
+/home/gab/Documents/projects/Cpp/Knight_Of_Solitude/build/CMakeFiles/edit_cache.dir
+/home/gab/Documents/projects/Cpp/Knight_Of_Solitude/build/CMakeFiles/rebuild_cache.dir
