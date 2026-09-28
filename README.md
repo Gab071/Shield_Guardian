@@ -12,7 +12,7 @@
 
 ## 1. Overview 
 
-Knight of Solitude is a game programmed in C++ with the utilization of SFML. Main goal of the game is to stay alive as long as possible by avoiding cannonballs and laser beams.
+Shield Guardian is a game programmed in C++ with the utilization of SFML. Main goal of the game is to stay alive as long as possible by avoiding cannonballs and laser beams.
 
 
 ## 2. What the game looks like
