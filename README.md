@@ -31,7 +31,7 @@ To play once more, press R key after current game ends. Unfortunately that way t
 
 ## 3. How to Play
 
-Shield yourself from cannon balls by moving the shield using "wasd" or arrow keys and hide yourself from laser beams by changing the color of the knight. To avoid laser beam user has to have the same color as the knight to successfully hide yourself. 
+Shield yourself from cannon balls by moving the shield using "wasd" or arrow keys and hide yourself from laser beams by changing the color of the knight. To avoid laser beam the knight has to have the same color as the laser beams to successfully hide yourself. 
 
 
 ## 4. How to Run 
