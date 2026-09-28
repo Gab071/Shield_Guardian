@@ -52,7 +52,7 @@ sudo apt install libsfml-dev cmake build-essential
 
 
 
-3. Then build the project (in the Snake folder you just cloned):
+3. Then build the project (in the Shield_Guardian folder you just cloned):
 ```
 cmake -B build
 cmake --build build
